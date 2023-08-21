@@ -30,7 +30,7 @@ End the program and close the output image windows.
 ### Register Number:212221230030 
 i) #To Read,display the image
 ```
-  import cv2
+import cv2
 color_img=cv2.imread('1.jpg',1)
 cv2.imshow('212221230030 jayanth',color_img)
 cv2.waitKey(0)
