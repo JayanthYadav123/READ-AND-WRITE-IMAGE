@@ -8,7 +8,7 @@ iii) Cut and paste a small portion of the image.
 ## Software Required:
 Anaconda - Python 3.7
 ## Algorithm:
-```
+
 Step1:
 Choose an image and save it as a filename.jpg
 
@@ -23,7 +23,7 @@ Use imwrite(filename, image) to write the image.
 
 Step5:
 End the program and close the output image windows.
-```
+
 
 ## Program:
 ### Developed By:G.Jayanth
